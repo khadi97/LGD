@@ -1,0 +1,3 @@
+# LGD
+
+Initial project repository.
